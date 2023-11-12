@@ -135,8 +135,8 @@ footer a:not(.nav-link) {
 @media (min-width: 48em) {
   .site-title {
     float: left; }
-  .site-nav {
-    float: right; }
+  /* .site-nav {
+    float: right; } */
   .avatar {
     margin-bottom: -80px;
     margin-left: 0; } }
